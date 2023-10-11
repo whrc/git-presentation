@@ -1,0 +1,69 @@
+---
+title: "Git and GitHub for Open Science"
+author: "José Lucas Safanelli"
+format: revealjs
+---
+
+##
+![xkcd.com](img/comic.png){fig-align=center}
+
+## Outline
+
+- Open science
+- Git vs GitHub
+- Live demonstration
+
+## Open Science
+
+European Commission, 2016:
+
+> Open Science represents a new approach to the scientific process based on **cooperative work** and new ways of **diffusing knowledge** by using **digital technologies** and new **collaborative tools**.  
+
+OECD, 2015:  
+
+> "(...) to make the primary outputs of **publicly funded research results** – publications and the research data – **publicly accessible in digital format** with no or minimal restriction.  
+
+## Are there some principles for going open?
+
+Using FAIR principles ([go-fair.org](https://www.go-fair.org/fair-principles/)), i.e. improving:  
+- **F**indability  
+- **A**ccessibility  
+- **I**nteroperability  
+- **R**euse  
+
+## How can we make data and code publicly accessible?
+
+Storage of data and big files:  
+
+![](img/data-platforms.png){fig-align=center}
+
+## How can we make data and code publicly accessible?
+
+Storage of code and light results:
+
+![](img/git-platforms.png){fig-align=center}
+
+##
+
+[![](img/git-vs-github.jpg)](https://devmountain.com/blog/git-vs-github-whats-the-difference/ "Git vs GitHub")
+
+## Woodwell's GitHub organization
+
+[![](img/woodwell_github.png)](https://github.com/whrc "Woodwell's github org")
+
+## With Git we can
+
+- Easily share code and analysis results with colleagues and supervisor  
+- Track changes in the source code or files, and use this as a progress checker or management tool  
+- Enable collaboration between peers (non-linear development)
+- Genuinely make open science  
+
+## Before going over the live demo...
+
+Follow the instructions on [GitHub Docs](https://docs.github.com/en):  
+1. [Create a GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account).  
+2. [Download Git](https://docs.github.com/en/get-started/quickstart/set-up-git).  
+3. Set a [SSH connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh) between your computer and GitHub.    
+4. Use Git + GitHub, the most common commands are described in:  
+  - [Get started | Using Git | About Git](https://docs.github.com/en/get-started/using-git/about-git)
+
